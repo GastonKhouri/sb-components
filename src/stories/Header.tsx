@@ -43,3 +43,6 @@ export const Header = ( { user, onLogin, onLogout, onCreateAccount }: HeaderProp
     </div>
   </header>
 );
+
+export default Header;
+
